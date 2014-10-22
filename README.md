@@ -4,7 +4,7 @@ Geotools 2
 About
 -----
 
-This is a MeteorJS wrapper for the Geotools 2 package from
+This is a MeteorJS wrapper for the Geotools 2 package. Here's the preamble from the library:
 
 > GeoTools is a set of javascript classes for performing conversions between WGS84 latitude and longitude coordinates, and Ordnance Survey Great Britain grid references and/or Ireland National Grid. It has similar performance to the conversion carried out by a typical GPS receiver, and is accurate to approximately 7m for 90% of Great Britain
 
