@@ -22,4 +22,4 @@ Please refer to [the instructions at the developers' site](http://www.nearby.org
 Version
 -------
 
-This is version `1.0.0` of the package and `version 2` of the underlying library. It's unlikely to change, ever - the original was cast in 2005.
+This is version `1.0.1` of the package and `version 2` of the underlying library. It's unlikely to change, ever - the original was cast in 2005.

@@ -1,7 +1,7 @@
 Package.describe({
   name: 'garrilla:geotools2',
   summary: 'GeoTools javascript coordinate transformations wrapped for Meteor.',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/garrilla/garrilla-geotools2.git'
 });
 
